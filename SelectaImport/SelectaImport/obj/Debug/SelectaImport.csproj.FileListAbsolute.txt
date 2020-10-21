@@ -1,0 +1,9 @@
+D:\ASP\SelectaImport\SelectaImport\bin\Debug\SelectaImport.exe.config
+D:\ASP\SelectaImport\SelectaImport\bin\Debug\SelectaImport.exe
+D:\ASP\SelectaImport\SelectaImport\bin\Debug\SelectaImport.pdb
+D:\ASP\SelectaImport\SelectaImport\obj\Debug\SelectaImport.csprojAssemblyReference.cache
+D:\ASP\SelectaImport\SelectaImport\obj\Debug\SelectaImport.Form1.resources
+D:\ASP\SelectaImport\SelectaImport\obj\Debug\SelectaImport.Properties.Resources.resources
+D:\ASP\SelectaImport\SelectaImport\obj\Debug\SelectaImport.csproj.GenerateResource.cache
+D:\ASP\SelectaImport\SelectaImport\obj\Debug\SelectaImport.exe
+D:\ASP\SelectaImport\SelectaImport\obj\Debug\SelectaImport.pdb
