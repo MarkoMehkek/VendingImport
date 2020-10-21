@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectaImport", "SelectaImport\SelectaImport.csproj", "{6E494A9A-6379-4129-8773-9876E557865F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingImport", "SelectaImport\VendingImport.csproj", "{6E494A9A-6379-4129-8773-9876E557865F}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{283A89F4-34D4-42F2-A9AF-E6526A7F4EF8}"
 EndProject

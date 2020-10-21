@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SelectaImport
 {
-    class Selecta
+    class Vending
     {
         public string UserName;
         public string PWD;

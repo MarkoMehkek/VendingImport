@@ -19,8 +19,8 @@ namespace SelectaImport
         // StreamWriter sw  = new StreamWriter("D:\\Smarcom.txt");
         StreamWriter sw;
         string code = "";
-        List<Selecta> DeviceList = new List<Selecta>();
-        Selecta selecta;
+        List<Vending> DeviceList = new List<Vending>();
+        Vending selecta;
         public Form1()
         {
 
@@ -39,7 +39,7 @@ namespace SelectaImport
             string filename = Path.GetFileName(path);
            // MessageBox.Show(filename);
             sw = new StreamWriter(filepath + "\\"+filename+".txt");
-            selecta = new Selecta();
+            selecta = new Vending();
             Reader r = new Reader(path, 1);
             
             // MessageBox.Show(r.ReadFirstRow(1,1));
@@ -122,7 +122,7 @@ namespace SelectaImport
                    
                     OpenFile(file);
 
-                    selecta = new Selecta();
+                    selecta = new Vending();
                     //MessageBox.Show(DeviceList.Count().ToString());
                     lblNumberOfDevices.Text += DeviceList.Count().ToString();
                     string directoryPath = Path.GetDirectoryName(file);
